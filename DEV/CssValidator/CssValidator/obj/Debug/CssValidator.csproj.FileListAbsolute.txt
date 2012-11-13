@@ -1,0 +1,5 @@
+C:\Users\PauloRB\Documents\Visual Studio 2010\Projects\Curso\WebApp\CssValidator\CssValidator\bin\CssValidator.dll
+C:\Users\PauloRB\Documents\Visual Studio 2010\Projects\Curso\WebApp\CssValidator\CssValidator\bin\CssValidator.pdb
+C:\Users\PauloRB\Documents\Visual Studio 2010\Projects\Curso\WebApp\CssValidator\CssValidator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PauloRB\Documents\Visual Studio 2010\Projects\Curso\WebApp\CssValidator\CssValidator\obj\Debug\CssValidator.dll
+C:\Users\PauloRB\Documents\Visual Studio 2010\Projects\Curso\WebApp\CssValidator\CssValidator\obj\Debug\CssValidator.pdb
