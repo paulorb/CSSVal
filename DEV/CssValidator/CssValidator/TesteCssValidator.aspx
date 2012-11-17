@@ -12,8 +12,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <input class="CSSVal_cpf visual" id="Text1" type="text" />
+        <input class="CSSVal_cpf visual CSSVal_ErrorReport_Simple" id="Text1" type="text" />
          <input class="CSSVal_cpf test" id="Text2" type="text" />
+          <input class="CSSVal_cpf visual CSSVal_ErrorReport_Simple" id="Text3" type="text" />
     </div>
     </form>
 </body>
